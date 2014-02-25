@@ -1,0 +1,30 @@
+[submodule "system"]
+	path = system
+	url = git://github.com/betabot7/kohana-core.git
+[submodule "modules/userguide"]
+	path = modules/userguide
+	url = git://github.com/betabot7/kohana-module-userguide.git
+[submodule "modules/unittest"]
+	path = modules/unittest
+	url = git://github.com/betabot7/kohana-module-unittest.git
+[submodule "modules/minion"]
+	path = modules/minion
+	url = git://github.com/betabot7/kohana-module-minion.git
+[submodule "modules/image"]
+	path = modules/image
+	url = git://github.com/betabot7/kohana-module-image.git
+[submodule "modules/database"]
+	path = modules/database
+	url = git://github.com/betabot7/kohana-module-database.git
+[submodule "modules/codebench"]
+	path = modules/codebench
+	url = git://github.com/betabot7/kohana-module-codebench.git
+[submodule "modules/cache"]
+	path = modules/cache
+	url = git://github.com/betabot7/kohana-module-cache.git
+[submodule "modules/auth"]
+	path = modules/auth
+	url = git://github.com/betabot7/kohana-module-auth.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = git://github.com/betabot7/kohana-module-orm.git
